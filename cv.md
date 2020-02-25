@@ -23,7 +23,28 @@
 * Swift Training from HSE Moscow (2019, in BSUIR)
 
 ## Code examples
-
+``` Delphi 
+function binarySearch(myRecordArray: recordArray; const sought:string; const size: integer; showResults: boolean): integer;
+     var
+      max, min, mid: integer;
+      flag: boolean;
+    begin
+    min:=1;
+    flag:=true;
+    max:=size;
+      while ((min<=max) and flag) do
+      begin
+        mid:=(max+min) div 2;
+        myRecordArray[mid].boolField:=true;
+        if myRecordArray[mid].stringField = sought then
+          begin
+          flag:=false;
+          end
+        else if myRecordArray[mid].stringField > sought then
+          max:=mid-1
+        else min:=mid+1;
+      end;
+```
 ## English
 * Due to EPAM test - B2+
 * Due to personal feelings - B1+
