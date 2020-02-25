@@ -7,7 +7,10 @@
 * *Telegram:* @nikolssen
 * *Cell phone:* +375 44 788 02 01
 ## Summary
-
+Hail! My name is Ivan, I'm a BSUIR student. I aspired to become a Game Developer, however last 
+year we has Swift Master Class that changed my mind. So, I would like to become IOS 
+developer. Nevertheless, I have Python and Delphi programming experience. During working in
+teams, I'm usualy a leader or his/her assistant. I speak Russian and Belarusian as well as English and Polish.
 ## Skills
 * Delphi programming
 * Python programming
@@ -15,7 +18,7 @@
 * Swift basics
 * HTML and CSS knowledge
 ## Experience
-
+Unfortunately, no
 ## Education
 * Belarusian State University Lyceum (2017-2019)
 * Belarusian State University of Informatics and Radioelectronics (2019- )
